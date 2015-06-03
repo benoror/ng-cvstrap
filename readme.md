@@ -1,14 +1,16 @@
 #NG-CVStrap
 
-Angular 2 CV Template
+Angular2 CV Template
 
 Done to learn new Angular 2 mindblowing features
 
-Based on the amazing [CVstrap HTML5/Bootstrap Template by EvenFly](https://github.com/srizon/cvstrap)
+Based on:
+
+- The amazing [CVstrap HTML5/Bootstrap Template by EvenFly](https://github.com/srizon/cvstrap)
+- Angular2 Webpack Starter: [angular-class/angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter)
 
 #Roadmap
 
-- Import Angular 2 Boilerplate
 - Install Webpack/NPM/Bower modules
 - Components Creation
 - JSON service
